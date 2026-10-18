@@ -1,0 +1,11 @@
+# Python environment and cached files
+.venv/
+__pycache__/
+
+# Private API credentials
+.env
+
+# Sample documents and generated reports
+samples/
+inspection_report.json
+agent_report.json
